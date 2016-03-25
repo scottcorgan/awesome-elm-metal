@@ -15,4 +15,4 @@ Awesome metal to listen to while coding Elm
 ## Misc.
 
 * [Clanking](https://www.youtube.com/watch?v=V9STdFcfaJg)
-
+* [Rooster](https://www.youtube.com/watch?v=A43JOxLa5MM)
