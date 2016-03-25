@@ -6,7 +6,9 @@ Awesome metal to listen to while coding Elm
 
 * [For Today - Break the Cycle](https://www.youtube.com/watch?v=q1z91zfPJAw)
 
-## Deathmetal
+## Deathcore
+
+* [Those Who Fear - Bulletproof](https://www.youtube.com/watch?v=VMCW2QV35tI)
 
 ## Grindcore
 
