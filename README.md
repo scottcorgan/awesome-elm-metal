@@ -10,6 +10,10 @@ Awesome metal to listen to while coding Elm
 
 * [Those Who Fear - Bulletproof](https://www.youtube.com/watch?v=VMCW2QV35tI)
 
+## Power Metal
+
+* [I'm Alive - Blind Guardian](https://www.youtube.com/watch?v=i6OXS9YRpCs)
+
 ## Grindcore
 
 ## Misc.
