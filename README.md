@@ -35,6 +35,14 @@ Awesome metal to listen to while coding Elm
 * [Neurosis - A Sun That Never Sets](https://www.youtube.com/watch?v=Pycr-q0qCHw)
 * [Neurosis - Honor Found In Decay](https://www.youtube.com/watch?v=CzZcr2UnFs4)
 
+## Death Metal
+
+* [At the Gates - Slaughter of the Soul](https://www.youtube.com/watch?v=614OdhFLUUU)
+
+## Stoner Metal
+
+* [Electric Wizard - Dopethrone](https://www.youtube.com/watch?v=eaMbKZPBruU)
+
 ## Misc.
 
 * [Clanking](https://www.youtube.com/watch?v=V9STdFcfaJg)
