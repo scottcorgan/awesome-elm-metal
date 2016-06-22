@@ -1,3 +1,5 @@
+![For whom the elm tolls](https://github.com/scottcorgan/awesome-elm-metal/blob/master/for-whom-the-elm-tolls.png)
+
 # Awesome Elm Metal
 
 Awesome metal to listen to while coding Elm
