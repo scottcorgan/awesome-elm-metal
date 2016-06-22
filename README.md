@@ -1,4 +1,4 @@
-![Elmtagram](https://github.com/chrisbuttery/awesome-elm-metal/blob/master/elmtagram.png)
+![Elmtagram](https://github.com/scottcorgan/awesome-elm-metal/blob/master/elmtagram.png)
 
 
 # Awesome Elm Metal
