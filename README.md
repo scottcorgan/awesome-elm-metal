@@ -1,3 +1,6 @@
+![Elmtagram](https://github.com/scottcorgan/awesome-elm-metal/blob/master/elmtagram.png)
+
+
 # Awesome Elm Metal
 
 Awesome metal to listen to while coding Elm
