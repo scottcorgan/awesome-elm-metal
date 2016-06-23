@@ -7,7 +7,7 @@ Awesome metal to listen to while coding Elm
 ## Metalcore
 
 * [For Today - Break the Cycle](https://www.youtube.com/watch?v=q1z91zfPJAw)
-* [Wage War - Alive](https://www.youtube.com/watch?v=CGqP5LDa6GU]
+* [Wage War - Alive](https://www.youtube.com/watch?v=CGqP5LDa6GU)
 
 ## Deathcore
 
