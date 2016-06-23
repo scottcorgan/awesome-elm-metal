@@ -69,6 +69,28 @@ Awesome metal to listen to while coding Elm
 * [Electric Wizard - Dopethrone](https://www.youtube.com/watch?v=eaMbKZPBruU)
 * [Church Of Misery - Master Of Brutality](https://www.youtube.com/watch?v=_sdHH1XFMS4)
 
+## Instrumental Progressive Metal
+
+* [Animals As Leaders - Animals As Leaders](https://www.youtube.com/watch?v=SZ2WrN93vno)
+* [Animals As Leaders - The Joy of Motion](https://www.youtube.com/watch?v=hWTx9NazU5A)
+* [Chon - Grow](https://www.youtube.com/watch?v=bKIbF42oH0s)
+* [Gru - Cosmogenesis](https://www.youtube.com/watch?v=ygiq6AMBGko)
+* [Outrun The Sunlight - Terrapin](https://www.youtube.com/watch?v=eABm7xX2wiM)
+* [Intervals - The Shape of Colour](https://www.youtube.com/watch?v=cUsEwsnvEeA)
+* [Intervals - In Time](https://www.youtube.com/watch?v=tyBrxxUWO28)
+* [Modern Day Babylon - The Ocean Atlas](https://www.youtube.com/watch?v=PO3F2RmG63E)
+* [Polyphia - Muse](https://www.youtube.com/watch?v=YdjIPSks2h0&list=PL6vKLmb1dOJsgd8cf9PftfjT4xYJGxy7E)
+* [Polyphia - Renaissance](https://www.youtube.com/watch?v=Q2dfe2yseIM)
+* [Pomegranate Tiger - Boundless](https://www.youtube.com/watch?v=9769CTA6h7A)
+* [Scale the Summit - The Collective](https://www.youtube.com/watch?v=YTUkj7pbQdM)
+* [Scale The Summit - The Migration](https://www.youtube.com/watch?v=SAjUqWTEwHs)
+* [Sithu Aye - Set Course for Andromeda](https://www.youtube.com/watch?v=mQsAmJUCcg4)
+* [Sithu Aye - Invent The Universe](https://www.youtube.com/watch?v=rHBi4AkVzbA)
+* [The Helix Nebula - Meridian](https://www.youtube.com/watch?v=1gRESh4iyfs)
+* [Walking Across Jupiter - Scent](https://www.youtube.com/playlist?list=PLTWBN-7JQIXWkleRi-mgT7R9bUdZvlbtU)
+* [Widek - Journey to the Stars](https://www.youtube.com/watch?v=QwWv3z-C_MA)
+* [Widek - Outside the Universe](https://www.youtube.com/watch?v=TMVteA-FzFA)
+
 ## Misc.
 
 * [Clanking](https://www.youtube.com/watch?v=V9STdFcfaJg)
