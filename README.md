@@ -9,6 +9,9 @@ Awesome metal to listen to while coding Elm
 * [For Today - Break the Cycle](https://www.youtube.com/watch?v=q1z91zfPJAw)
 * [Wage War - Alive](https://www.youtube.com/watch?v=CGqP5LDa6GU)
 * [The Crimson Armada - Juggernaut](https://www.youtube.com/watch?v=Sgn4WYOtayI)
+
+## Mathcore
+
 * [The Dillinger Escape Plan - The Mullet Burden](https://www.youtube.com/watch?v=4CGZCNpvgYk)
 
 ## Deathcore
@@ -93,6 +96,7 @@ Awesome metal to listen to while coding Elm
 * [Walking Across Jupiter - Scent](https://www.youtube.com/playlist?list=PLTWBN-7JQIXWkleRi-mgT7R9bUdZvlbtU)
 * [Widek - Journey to the Stars](https://www.youtube.com/watch?v=QwWv3z-C_MA)
 * [Widek - Outside the Universe](https://www.youtube.com/watch?v=TMVteA-FzFA)
+
 
 ## Misc.
 
