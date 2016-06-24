@@ -13,6 +13,7 @@ Awesome metal to listen to while coding Elm
 ## Deathcore
 
 * [Those Who Fear - Bulletproof](https://www.youtube.com/watch?v=VMCW2QV35tI)
+* [Ellie - Veil of Maya](https://www.youtube.com/watch?v=R6u8cMdEQs8)
 
 ## Power Metal
 
