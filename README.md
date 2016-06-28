@@ -33,6 +33,7 @@ Awesome metal to listen to while coding Elm
 * [Judas Priest - Screaming For Vengeance](https://www.youtube.com/watch?v=C1DQbdg7DpA&list=PLPf69IGxwfBEYCzFwsiJ_EBE_6Cb7bysD)
 * [Ozzy Osbourne - Diary Of A Madman](https://www.youtube.com/watch?v=Ws3H0OOyJSA&list=PL98V0htatE-XP6wMZ1YlDRqBVXhdcfkp4)
 * [Ozzy Osbourne - Blizzard Of Ozz](https://www.youtube.com/watch?v=RMR5zf1J1Hs&list=PL2WOUQPE0WEC5ycIYgpafBRcEwTR_RQ_W)
+* [Avenged Sevenfold - Nightmare](https://www.youtube.com/watch?v=94bGzWyHbu0)
 
 ## Grindcore
 
