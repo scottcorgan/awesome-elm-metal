@@ -100,6 +100,10 @@ Awesome metal to listen to while coding Elm
 * [Widek - Outside the Universe](https://www.youtube.com/watch?v=TMVteA-FzFA)
 
 
+## [Randomly Generated Metal](http://djen.co/)
+
+* [Birds of Paradise](http://djen.co/#share/h1PBzY)
+
 ## Misc.
 
 * [Clanking](https://www.youtube.com/watch?v=V9STdFcfaJg)
