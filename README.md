@@ -99,6 +99,9 @@ Awesome metal to listen to while coding Elm
 * [Widek - Journey to the Stars](https://www.youtube.com/watch?v=QwWv3z-C_MA)
 * [Widek - Outside the Universe](https://www.youtube.com/watch?v=TMVteA-FzFA)
 
+## Alternative Metal
+
+* [System of a Down - Aerials](https://www.youtube.com/watch?v=L-iepu3EtyE)
 
 ## [Randomly Generated Metal](http://djen.co/)
 
