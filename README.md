@@ -118,6 +118,12 @@ Awesome metal to listen to while coding Elm
 
 * [Birds of Paradise](http://djen.co/#share/h1PBzY)
 
+## Dungeon Synth
+
+* [Mortiis - The Song Of A Long Forgotten Ghost](https://www.youtube.com/watch?v=fSHveknSuoU)
+* [Mortiis - Keiser Av En Dimensjon Ukjent](https://www.youtube.com/watch?v=rl7nydFjkQ4)
+* [Abandoned Places - Return to the Palace of Mirrors](https://www.youtube.com/watch?v=tbKuzdv_9zI)
+
 ## Misc.
 
 * [Clanking](https://www.youtube.com/watch?v=V9STdFcfaJg)
