@@ -81,8 +81,11 @@ Awesome metal to listen to while coding Elm
 
 ## Stoner Metal
 
+* [Sleep - Dopesmoker](https://www.youtube.com/watch?v=hIw7oeZKpZc)
+* [Sleep - Sleep's Holy Mountain](https://www.youtube.com/watch?v=My8T8vTYaZ8)
 * [Electric Wizard - Dopethrone](https://www.youtube.com/watch?v=eaMbKZPBruU)
 * [Church Of Misery - Master Of Brutality](https://www.youtube.com/watch?v=_sdHH1XFMS4)
+* [Om - Conference of the Birds](https://www.youtube.com/watch?v=ooxu9qa3mTw)
 
 ## Instrumental Progressive Metal
 
