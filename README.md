@@ -60,6 +60,13 @@ Awesome metal to listen to while coding Elm
 
 * [At the Gates - Slaughter of the Soul](https://www.youtube.com/watch?v=614OdhFLUUU)
 
+## Black Metal
+
+* [Darkthrone - Transilvanian Hunger](https://www.youtube.com/watch?v=iKbeRqqivdw)
+* [Venom - Welcome to Hell](https://www.youtube.com/watch?v=Kt7uKtNVA7o&list=PLqytfNFx9Ghze7FTPnZdCwJzYrabsCPcE)
+* [Ash Borer - In The Midst Of Life, We Are In Death](https://www.youtube.com/watch?v=TT8lPT3kDAg)
+* [Bathory - S/T](https://www.youtube.com/watch?v=IFLj1WFJmMA)
+
 ## Swedish Metal
 
 * [Entombed - Uprising](https://www.youtube.com/watch?v=3J7XRtBvM-w)
@@ -74,8 +81,11 @@ Awesome metal to listen to while coding Elm
 
 ## Stoner Metal
 
+* [Sleep - Dopesmoker](https://www.youtube.com/watch?v=hIw7oeZKpZc)
+* [Sleep - Sleep's Holy Mountain](https://www.youtube.com/watch?v=My8T8vTYaZ8)
 * [Electric Wizard - Dopethrone](https://www.youtube.com/watch?v=eaMbKZPBruU)
 * [Church Of Misery - Master Of Brutality](https://www.youtube.com/watch?v=_sdHH1XFMS4)
+* [Om - Conference of the Birds](https://www.youtube.com/watch?v=ooxu9qa3mTw)
 
 ## Instrumental Progressive Metal
 
@@ -110,6 +120,12 @@ Awesome metal to listen to while coding Elm
 ## [Randomly Generated Metal](http://djen.co/)
 
 * [Birds of Paradise](http://djen.co/#share/h1PBzY)
+
+## Dungeon Synth
+
+* [Mortiis - The Song Of A Long Forgotten Ghost](https://www.youtube.com/watch?v=fSHveknSuoU)
+* [Mortiis - Keiser Av En Dimensjon Ukjent](https://www.youtube.com/watch?v=rl7nydFjkQ4)
+* [Abandoned Places - Return to the Palace of Mirrors](https://www.youtube.com/watch?v=tbKuzdv_9zI)
 
 ## Misc.
 
